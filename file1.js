@@ -22,3 +22,7 @@ function myFunction1() {
   function myFunction6(number) {
     return number * 10;
   }
+
+  function myFunction7(number) {
+    return number * 15;
+  }
