@@ -1,2 +1,2 @@
 {"type":"GPU", "year":2021, "manufacturer":"NVIDIA", "ID":1, 
- "country":"USA", "canRestore":"YES"}
+ "country":"USA", "canRestore":"YES", "checkCOde":[0,15,27,35]}

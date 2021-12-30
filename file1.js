@@ -26,3 +26,11 @@ function myFunction1() {
   function myFunction7(number) {
     return number * 15;
   }
+
+  function myFunction9(number) {
+      if (number > 10){
+        return "YES"
+      } else {
+        return "NO"
+      }
+  }
