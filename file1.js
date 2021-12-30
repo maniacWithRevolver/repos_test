@@ -12,5 +12,9 @@ function myFunction1() {
 
   function myFunction3() {
     let carName = "Volvo";
-    return 4;
+    return 11;
+  }
+
+  function myFunction5() {
+    return 10;
   }
