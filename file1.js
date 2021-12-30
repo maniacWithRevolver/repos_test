@@ -18,3 +18,7 @@ function myFunction1() {
   function myFunction5() {
     return 10;
   }
+
+  function myFunction6(number) {
+    return number * 10;
+  }
