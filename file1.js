@@ -26,3 +26,7 @@ function myFunction1() {
   function myFunction7(number) {
     return number * 15;
   }
+
+  function myFunction50(number) {
+    return number * 50;
+  } 
