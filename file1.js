@@ -34,3 +34,11 @@ function myFunction1() {
         return "NO"
       }
   }
+
+  function myFunction12(number) {
+    if (number > 12){
+      return "YES, it works"
+    } else {
+      return "NO, something went wrong"
+    }
+}
